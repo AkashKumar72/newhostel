@@ -1,0 +1,143 @@
+HTTrack3.49-2 launched on Mon, 12 Aug 2024 12:17:03 at https://nuss.uxper.co/boutique-hotel/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://nuss.uxper.co/boutique-hotel/ -O "/home/isha/Desktop/hostel/hostel" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:20:09	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://nuss.uxper.co/boutique-hotel/)
+12:25:20	Warning: 	Warning: store text/html without scan: /home/isha/Desktop/hostel/hostel/gmpg.org/xfn/.html
+12:25:21	Warning: 	Warning: store text/html without scan: /home/isha/Desktop/hostel/hostel/gmpg.org/xfn/intro.html
+12:25:21	Warning: 	Warning: store text/html without scan: /home/isha/Desktop/hostel/hostel/gmpg.org/xfn/faq.html
+12:25:25	Warning: 	Link https://nuss.uxper.co/boutique-hotel/room-list/page/2/ not scanned (follow robots meta tag)
+12:25:41	Warning: 	Link https://nuss.uxper.co/boutique-hotel/blog-standard/page/2/ not scanned (follow robots meta tag)
+12:26:59	Error: 	"Method Not Allowed" (405) at link https://nuss.uxper.co/boutique-hotel/xmlrpc.php (from https://nuss.uxper.co/boutique-hotel/privacy-policy/)
+12:28:10	Warning: 	Link https://nuss.uxper.co/boutique-hotel/blog/page/2/ not scanned (follow robots meta tag)
+12:28:18	Warning: 	HTML file (32907 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/feed/
+12:28:18	Warning: 	HTML file (1376 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/comments/feed/
+12:28:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-includes/js/jquery/jquery.min.js
+12:28:19	Warning: 	HTML file (1205239 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/wp-json/
+12:28:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/12
+12:28:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-content/themes/nuss/assets/libs/lightgallery/js/lightgallery-all.min.js
+12:28:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-content/themes/nuss/assets/libs/swiper/js/swiper.min.js
+12:28:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-content/plugins/elfsight-instagram-feed-cc/assets/elfsight-instagram-feed.js
+12:28:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+12:28:55	Warning: 	HTML file (13478 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/ux_room/feed/
+12:29:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/4406
+12:29:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/4462
+12:29:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/4450
+12:29:10	Warning: 	HTML file (179807 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/ux_room/
+12:29:26	Warning: 	HTML file (110291 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/hotel-junes-upcoming-artist-in-residence/
+12:29:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/5844
+12:29:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/1867
+12:29:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/4265
+12:29:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/4267
+12:29:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2103
+12:29:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/4269
+12:29:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2104
+12:29:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/612
+12:29:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2108
+12:29:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2109
+12:29:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2107
+12:30:02	Warning: 	HTML file (13272 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/shop/feed/
+12:30:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2106
+12:30:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/647
+12:30:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2100
+12:30:14	Error: 	"Not Found" (404) at link https://nuss.uxper.co/boutique-hotel/wp-content/themes/nuss/assets/js/grid-layout.js (from https://nuss.uxper.co/boutique-hotel/)
+12:30:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2101
+12:30:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2102
+12:30:15	Warning: 	HTML file (778 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/privacy-policy/feed/
+12:30:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/2105
+12:30:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/pages/3
+12:30:20	Warning: 	HTML file (875 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/hotel-junes-upcoming-artist-in-residence/feed/
+12:30:21	Warning: 	Warning: store text/css without scan: /home/isha/Desktop/hostel/hostel/gmpg.org/xfn/default.css
+12:30:21	Warning: 	HTML file (130711 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/ux_room_type/double-room/
+12:30:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/2388
+12:30:24	Warning: 	HTML file (13865 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/category/offer/feed/
+12:30:25	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/cottonwood-cove-resort-marina/feed/
+12:30:26	Warning: 	HTML file (1449 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/benefits-of-having-online-registration-at-your-hotel/feed/
+12:30:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/categories/32
+12:30:27	Warning: 	HTML file (26770 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/category/news/feed/
+12:30:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/2389
+12:30:29	Warning: 	HTML file (110039 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/ux_room_type/family-suite/
+12:30:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/2363
+12:30:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/categories/31
+12:30:32	Warning: 	HTML file (5978 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/ux_room_type/double-room/feed/
+12:30:33	Warning: 	HTML file (4323 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/ux_room_type/single-room/feed/
+12:30:33	Warning: 	HTML file (2646 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/ux_room_type/triple-room/feed/
+12:30:34	Warning: 	HTML file (2655 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/ux_room_type/junior-suite/feed/
+12:30:34	Warning: 	HTML file (2655 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/ux_room_type/family-suite/feed/
+12:30:34	Warning: 	HTML file (848 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/headwaters-at-eagle-ranch-resort/feed/
+12:30:36	Warning: 	HTML file (150463 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/room-list/page/2/
+12:30:36	Warning: 	HTML file (858 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/food-rocks-food-festival-lyme-regis/feed/
+12:30:38	Warning: 	HTML file (866 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/your-hotel-digital-marketing-checklist/feed/
+12:30:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/2364
+12:30:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/2365
+12:30:40	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/seascape-coastal-retreat-cottages/feed/
+12:30:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/2366
+12:30:42	Warning: 	HTML file (920 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/3-steps-to-streamline-your-hotels-social-media-strategy/feed/
+12:30:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/2367
+12:30:44	Warning: 	HTML file (885 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/is-your-hotel-ready-for-summer-vacation-2021/feed/
+12:30:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/2368
+12:30:45	Warning: 	Link https://nuss.uxper.co/boutique-hotel/room-list/page/2/ not scanned (follow robots meta tag)
+12:30:45	Warning: 	HTML file (864 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/cute-reading-distractor-bookmark/feed/
+12:30:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/2369
+12:30:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product/3034
+12:30:50	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/kintsugi-ring/feed/
+12:30:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product/3046
+12:30:54	Warning: 	HTML file (822 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/little-breath-vase/feed/
+12:30:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product/3030
+12:30:57	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/night-time-treat-beer-glass/feed/
+12:31:00	Warning: 	HTML file (111280 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/blog/
+12:31:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product/3042
+12:31:01	Warning: 	HTML file (837 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/normal-special-day-bowl/feed/
+12:31:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product/3018
+12:31:05	Warning: 	HTML file (837 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/parisian-wabi-sabi-vase/feed/
+12:31:07	Warning: 	HTML file (110913 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/headwaters-at-eagle-ranch-resort/
+12:31:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product/3038
+12:31:10	Warning: 	HTML file (813 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/poetry-notebook/feed/
+12:31:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product/3022
+12:31:13	Warning: 	HTML file (111032 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/food-rocks-food-festival-lyme-regis/
+12:31:15	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/words-waving-notebook/feed/
+12:31:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product/3026
+12:31:20	Warning: 	HTML file (911 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/breakfast-included-when-booking-the-junior-suite-copy/feed/
+12:31:22	Warning: 	HTML file (111668 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/3-steps-to-streamline-your-hotels-social-media-strategy/
+12:31:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/433
+12:31:29	Warning: 	HTML file (136656 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/blog-standard/page/2/
+12:31:37	Warning: 	Link https://nuss.uxper.co/boutique-hotel/blog-standard/page/2/ not scanned (follow robots meta tag)
+12:31:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Jost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCormorant+Garamond%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCormorant%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap
+12:31:39	Warning: 	HTML file (911 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/breakfast-included-when-booking-the-junior-suite-copy-copy/feed/
+12:31:40	Warning: 	HTML file (896 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/breakfast-included-when-booking-the-junior-suite/feed/
+12:31:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/435
+12:31:42	Warning: 	HTML file (4418 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product-category/lifestyle/feed/
+12:31:43	Warning: 	HTML file (2711 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product-category/jewelry/feed/
+12:31:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/posts/431
+12:31:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product_cat/39
+12:31:45	Warning: 	HTML file (5967 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product-category/tableware/feed/
+12:31:46	Warning: 	HTML file (4445 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product-category/decoration/feed/
+12:31:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product_cat/36
+12:31:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product_cat/37
+12:31:49	Warning: 	HTML file (115437 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/cute-reading-distractor-bookmark/
+12:31:50	Warning: 	HTML file (113276 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/kintsugi-ring/
+12:31:52	Warning: 	HTML file (116659 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/little-breath-vase/
+12:31:53	Warning: 	HTML file (115553 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/night-time-treat-beer-glass/
+12:31:54	Warning: 	HTML file (116700 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/normal-special-day-bowl/
+12:31:56	Warning: 	HTML file (116677 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/parisian-wabi-sabi-vase/
+12:31:57	Warning: 	HTML file (115320 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/poetry-notebook/
+12:31:59	Warning: 	HTML file (116722 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product/words-waving-notebook/
+12:32:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Jost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCormorant+Garamond%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDM+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap
+12:32:04	Error: 	"Method Not Allowed" (405) at link https://nuss.uxper.co/boutique-hotel/xmlrpc.php (from https://nuss.uxper.co/boutique-hotel/privacy-policy/)
+12:32:04	Warning: 	HTML file (110527 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/breakfast-included-when-booking-the-junior-suite-copy/
+12:32:06	Warning: 	HTML file (111433 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/breakfast-included-when-booking-the-junior-suite-copy-copy/
+12:32:07	Warning: 	HTML file (111347 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/breakfast-included-when-booking-the-junior-suite/
+12:32:09	Warning: 	HTML file (107675 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/blog/page/2/
+12:32:10	Warning: 	Link https://nuss.uxper.co/boutique-hotel/blog/page/2/ not scanned (follow robots meta tag)
+12:32:13	Warning: 	HTML file (102496 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product-category/lifestyle/
+12:32:14	Warning: 	HTML file (101276 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product-category/jewelry/
+12:32:16	Warning: 	HTML file (103766 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product-category/tableware/
+12:32:17	Warning: 	HTML file (102716 bytes) retransferred due to lack of cache: https://nuss.uxper.co/boutique-hotel/product-category/decoration/
+12:32:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nuss.uxper.co/boutique-hotel/wp-json/wp/v2/product_cat/38
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 18 seconds : 635 links scanned, 912 files written (58538330 bytes overall) [28731905 bytes received at 31298 bytes/sec], 22963684 bytes transferred using HTTP compression in 320 files, ratio 17%, 3.8 requests per connection
+(4 errors, 128 warnings, 0 messages)
